@@ -8,8 +8,9 @@ height: 450px;
 align-content: center;
 }
 body{
-    background-color:rgb(620,181,125,120);
+    background-image: url("../img/download\ \(5\).jpeg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .fluid h1{
     color: rgb(206, 63, 94);
