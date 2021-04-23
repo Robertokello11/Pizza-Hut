@@ -110,4 +110,8 @@ ul {
   div.desc {
     padding: 15px;
   }  
+  .hut{
+      color: limegreen;
+      font-weight: bold;
+  }
 
