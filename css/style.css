@@ -10,7 +10,8 @@ align-content: center;
 body{
     background-image: url("../img/download\ \(5\).jpeg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;background-attachment: fixed;
+    
 }
 .fluid h1{
     color: rgb(206, 63, 94);
