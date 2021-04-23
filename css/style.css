@@ -1,0 +1,13 @@
+.mySlides{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1%;
+margin-bottom: 20%;
+height: 450px;
+align-content: center;
+}
+body{
+    background-color:rgb(620,181,125,120);
+    background-repeat: no-repeat;
+}
