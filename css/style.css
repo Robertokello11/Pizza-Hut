@@ -11,3 +11,9 @@ body{
     background-color:rgb(620,181,125,120);
     background-repeat: no-repeat;
 }
+.fluid h1{
+    color: rgb(206, 63, 94);
+    font-family: 'Romanesco', cursive;
+    font-size:58px;
+    text-align: center;
+}
