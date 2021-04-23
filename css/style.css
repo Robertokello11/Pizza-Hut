@@ -73,7 +73,7 @@ ul {
     margin-top: 0%;
     opacity: 70%;
   }
-  .menu p{
+  .menu h2{
       text-align: center;
       color: lime;
       font-family: sans-serif;
@@ -81,6 +81,8 @@ ul {
       margin-top: 10px;
       padding-bottom: 50%;
       font-size: 44px;
+      font-family: 'Calligraffitti', cursive;
+      font-weight: 600;
   }
 
 
