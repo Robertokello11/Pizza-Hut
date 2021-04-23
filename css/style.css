@@ -1,5 +1,5 @@
 .mySlides{
-width: 940px;
+width: 960px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 1%;
@@ -26,6 +26,7 @@ ul {
     background-color:lightseagreen;
     background-size: cover;
     font-weight: 600;
+    opacity: 70%;
   }
   
   li {
@@ -48,6 +49,7 @@ ul {
       margin-top: 1%;
       background-size: cover;
       margin-bottom: 1%;
+      opacity: 70%;
       
 
   }
