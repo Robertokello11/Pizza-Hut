@@ -43,3 +43,14 @@ ul {
   li a:hover {
     background-color: rgb(14, 53, 19);
   }
+  #About{
+      background-color: lightyellow;
+      margin-top: 1%;
+      background-size: cover;
+      margin-bottom: 1%;
+
+  }
+  #About h2 {
+      text-align: center;
+      font-family: 'Romanesco', cursive;
+  }
