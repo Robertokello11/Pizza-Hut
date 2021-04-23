@@ -78,11 +78,35 @@ ul {
       color: lime;
       font-family: sans-serif;
       font-style: italic;
-      margin-top: 10px;
-      padding-bottom: 50%;
+      margin-top: 1px;
+      
       font-size: 44px;
       font-family: 'Calligraffitti', cursive;
       font-weight: 600;
   }
 
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 350px;
+    background-color: lightyellow;
+    padding: auto;
+    margin-top: 0%;
+    opacity: 100%;
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+  }  
 
