@@ -9,10 +9,13 @@
 }
 
 body {
-    background-image: url("../img/download\ \(5\).jpeg");
+    background-image: url("../img/probat.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-clip: border-box;
+    
+    
 
 }
 
@@ -31,7 +34,7 @@ ul {
     background-color: lightseagreen;
     background-size: cover;
     font-weight: 600;
-    opacity: 70%;
+    opacity:90%;
 }
 
 li {
@@ -55,7 +58,7 @@ li a:hover {
     margin-top: 1%;
     background-size: cover;
     margin-bottom: 1%;
-    opacity: 70%;
+    opacity: 90%;
 
 
 }
@@ -79,7 +82,7 @@ li a:hover {
     background-color: lightyellow;
     padding: auto;
     margin-top: 0%;
-    opacity: 70%;
+    opacity: 90%;
 }
 
 .menu h2 {
