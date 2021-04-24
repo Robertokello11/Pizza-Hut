@@ -14,8 +14,8 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-clip: border-box;
-    
-    
+
+
 
 }
 
@@ -34,7 +34,7 @@ ul {
     background-color: lightseagreen;
     background-size: cover;
     font-weight: 600;
-    opacity:90%;
+    opacity: 90%;
 }
 
 li {
@@ -126,4 +126,30 @@ div.desc {
 .hut {
     color: limegreen;
     font-weight: bold;
+}
+
+.text-area {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.col-ms-6 {
+    background-color: cornflowerblue;
+    opacity: 80%;
+    color: red;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 20px;
+}
+
+#make-your-order {
+    text-align: center;
+    opacity: 80%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: chartreuse;
 }
