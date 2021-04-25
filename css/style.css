@@ -153,3 +153,71 @@ div.desc {
     margin-right: auto;
     color: chartreuse;
 }
+
+#Total {
+    width: 100%;
+}
+
+.pizza-summary {
+    display: none;
+}
+
+#borderRight-style {
+    border-right: 2px dashed black;
+}
+.order-summary h1, .summary, .contact {
+    color: #000;
+    font-family: 'Calligraffitti', cursive;
+    margin-top: 30px;
+    color:maroon;
+}
+.contact-overlay {
+    height: inherit;
+    background-color: rgba(0, 0, 0, 0.7);
+    color:mediumaquamarine
+}
+input[type="email"] {
+    background: translucent;
+    border: 1px solid #ffffff;
+    padding: .8em .7em;
+    border-radius: 20px;
+    outline: none !important;
+    font-size: 14px;
+}
+.click-me, button[type=submit], .deliver, .delivernot {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    letter-spacing: 2px;
+    background-color: #09ff00;
+    outline: none;
+    padding: 12.5px 13px;
+    border: none;
+    border-radius: 33px;
+    font-size: 14px;
+}
+.deliver, .delivernot {
+    margin: 10px;
+}
+.order-overlay {
+    height: inherit;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 20px;
+}
+.checkout {
+    border-radius: 20px;
+    margin-top: 20px;
+}
+h4 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Romanesco', cursive;
+    letter-spacing: 1px;
+    font-size: 29px;
+}
+.go {
+    border-radius: 20px;
+}
+
