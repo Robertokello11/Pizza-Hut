@@ -43,6 +43,28 @@ $(function () {
                 switch (size) {
                     case size = "large":
                         price = 600;
+                        if (crust === "thin") {
+                            totalPrice = (price * number) + 100;
+                        } else if (crust === "thick") {
+                            totalPrice = (price * number) + 200
+                        } else if (crust === "flatbread") {
+                            totalPrice = (price * number) + 120
+                        } else {
+                            totalPrice = (price * number) + 280
+                        }
+                        break;
+                    case size = "medium":
+                        price = 600;
+                        if (crust === "thin") {
+                            totalPrice = (price * number) + 100;
+                        } else if (crust === "thick") {
+                            totalPrice = (price * number) + 200
+                        } else if (crust === "flatbread") {
+                            totalPrice = (price * number) + 120
+                        } else {
+                            totalPrice = (price * number) + 280
+                        }
+                        break; 
                 }
         }
     });
