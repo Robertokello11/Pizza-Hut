@@ -26,8 +26,24 @@ $(function () {
         let number = $("#number").val()
         console.log(size)
 
-        let order = (f,s,c,t,n,total) => {
-            return {f,s,c,t,n,total};
+        let order = (f, s, c, t, n, total) => {
+            return {
+                f,
+                s,
+                c,
+                t,
+                n,
+                total
+            };
         };
+        //price
+        let price, totalPrice;
+        switch (flavour) {
+            case flavour = "cheese":
+                switch (size) {
+                    case size = "large":
+                        price = 600;
+                }
+        }
     });
 });
