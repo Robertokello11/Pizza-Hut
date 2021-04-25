@@ -166,15 +166,16 @@ div.desc {
     border-right: 2px dashed black;
 }
 .order-summary h1, .summary, .contact {
-    color: #000;
     font-family: 'Calligraffitti', cursive;
     margin-top: 30px;
-    color:maroon;
+    color: mintcream;
 }
 .contact-overlay {
     height: inherit;
     background-color: rgba(0, 0, 0, 0.7);
-    color:mediumaquamarine
+    color:mediumaquamarine;
+    font-size: 28px;
+    font-weight: bolder;
 }
 input[type="email"] {
     background: translucent;
