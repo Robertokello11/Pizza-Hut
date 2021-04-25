@@ -320,6 +320,7 @@ $(function () {
                         } else {
                             totalPrice = (price * number) + 280;
                         }
+
                         break;
                     case size = "medium":
                         price = 600;
