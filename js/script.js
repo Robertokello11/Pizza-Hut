@@ -67,7 +67,7 @@ $(function () {
                         break;
                 }
                 break;
-            case flavour = "chickentikka":
+            case flavour = "pepperoni":
                 switch (size) {
                     case size = "regular":
                         price = 300;
@@ -107,7 +107,7 @@ $(function () {
                         break;
                 }
                 break;
-            case flavour = "periperi":
+            case flavour = "meat":
                 switch (size) {
                     case size = "regular":
                         price = 300;
@@ -147,7 +147,7 @@ $(function () {
                         break;
                 }
                 break;
-            case flavour = "bbq":
+            case flavour = "bbqchicken":
                 switch (size) {
                     case size = "regular":
                         price = 300;
@@ -187,7 +187,7 @@ $(function () {
                         break;
                 }
                 break;
-            case flavour = "boerewors":
+            case flavour = "veggie":
                 switch (size) {
                     case size = "regular":
                         price = 300;
@@ -421,5 +421,5 @@ $(function () {
     $(function () {
         $.scrollify.move('#sum-order');
     });
-
+    event.preventDefault()
 });
